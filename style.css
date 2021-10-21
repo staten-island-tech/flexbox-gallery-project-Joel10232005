@@ -271,3 +271,17 @@ img:hover {
     color: #ff7a59;
     background: #fff;
   }
+
+  @media screen and (max-width: 768px){
+    .title{
+      color: rgb(187, 169, 10);
+    }
+
+  }
+
+  @media screen and (max-width: 1300px){
+    .title{
+      color: rgb(223, 39, 39);
+    }
+
+  }
